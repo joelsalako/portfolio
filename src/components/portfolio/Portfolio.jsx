@@ -41,8 +41,8 @@ const data = [
     id: 5,
     image: IMG5,
     title: 'Portfolio Site (With React and CSS)',
-    github: 'https://github.com',
-    demo: 'Portfolio (With React and CSS)'
+    github: 'https://github.com/joelsalako/portfolio',
+    demo: 'http://joelsalako.net'
   },
   // {
   //   id: 6,
