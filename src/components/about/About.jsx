@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css';
-import MYPIC from '../../assets/mypic.png';
+import MYPIC from '../../assets/mypic.jpg';
 import {FaAward} from 'react-icons/fa';
 import {HiAcademicCap} from 'react-icons/hi';
 import {VscFolderLibrary} from 'react-icons/vsc';
